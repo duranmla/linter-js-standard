@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## Unreleased
+## Added
+- Support for `hashdard` style linter [hashdard](https://github.com/hashlabs/hashdard)
+
 ## 3.3.0 (2016-04-11)
 ### Added
 - [Uses the linter your package depends on rather than the internal dependency whenever possible.](https://github.com/ricardofbarros/linter-js-standard/pull/101)
